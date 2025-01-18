@@ -19,7 +19,7 @@ Why this Dashboard?
 This project helps users easily understand and explore data about India’s constituencies. Whether you're a beginner learning Power BI or someone exploring Indian data, this dashboard is a great way to get started.
 How to Use It
 1.	Download or clone this repository from GitHub.
-2.	Open the .pbix file using Power BI Desktop.
+2.	Open the (.pbix) file using Power BI Desktop.
 3.	Explore the interactive visuals to dive into the insights.
 
 # About the Data
